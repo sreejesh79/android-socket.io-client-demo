@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SocketActivity">
+    <item android:id="@+id/action_attach"
+        android:icon="@drawable/ic_action_attachment"
+        android:title="@string/action_attach"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/action_capture"
+        android:icon="@drawable/ic_action_camera"
+        android:title="@string/action_capture"
+        app:showAsAction="always"
+        />
+
+</menu>

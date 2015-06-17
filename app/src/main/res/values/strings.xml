@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NodeSocket</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">SEND</string>
+    <string name="action_send">Send</string>
+    <string name="prompt_message">Message</string>
+    <string name="action_attach">ATTACH</string>
+    <string name="action_capture">CAPTURE IMAGE</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

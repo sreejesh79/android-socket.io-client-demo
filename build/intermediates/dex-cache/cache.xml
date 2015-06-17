@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sreejeshpillai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0-4d8554129a568dee61259deadcb4719d5796b64d.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/okio-1.3.0-0940eeb4745684d25f8f331fe396cc0f5cbd3fcb.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.5.0/7d40c590385ba95b34920eb89c986757a79968af/socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/socket.io-client-0.5.0-67434f110820f099b775e2a2123e18b601db2bf4.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/classes-9bd558a1c68cedd69f60a4fcc9aea0c711500abb.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9155729ae3ec99fdb2d9532d47b741089b01fa3f.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.5.0/72f54ba32a0d735630ebc33a5c39e14a5dd45492/engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/engine.io-client-0.5.0-a5a1bdf895a8468802a980efcde4957b9e3a2c91.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-032a0bfc0589dd52f28f5a5353cf0f2c6e883bd6.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/classes-a86e6a5e615e49af5a807f539ced1b4a8216b9e9.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0-c7e4d1f10985119c2165f3af7522875c122d14b9.jar" />
+    </item>
+    <item
+        jar="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/sreejeshpillai/AndroidStudioProjects/NodeSocket/app/build/intermediates/pre-dexed/debug/classes-0b3881b67ddc8439c431ad7b1de5afb808e95ab7.jar" />
+    </item>
+
+</items>
